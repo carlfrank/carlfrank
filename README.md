@@ -15,7 +15,6 @@
 
 - 💬 Ask me about **Solidity and NFTS**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
